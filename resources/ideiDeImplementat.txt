@@ -1,0 +1,3 @@
+1. Countdown pana la noul an(destul de useless) // totusi destul de usor de implementat, ar da bine zic
+2. De implementat un search bar // f greu, ar impresiona dar destul de complicat de implementat plus de asta trebuie o baza de date pentru ce se cauta
+3.

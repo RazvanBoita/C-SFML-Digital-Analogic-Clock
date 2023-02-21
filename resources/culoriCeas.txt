@@ -1,0 +1,6 @@
+
+0.default(magenta)
+1.yellow
+2.white
+3.cyan
+4.transparent

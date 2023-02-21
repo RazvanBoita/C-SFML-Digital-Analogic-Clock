@@ -1,0 +1,4 @@
+ Proiectul acesta a fost realizat de Boita Razvan-Mihai si Eliza Ladaru, din grupa A1, cu profesorul indrumator Patrut Bogdan. Proiectul are ca scop crearea
+ unui ceas digital si a unui ceas analogic. Pentru dezvoltarea proiectului a fost folosit limbajul C++, iar pentru partea grafica a fost folosita biblioteca
+ SFML. Aplicatia prezinta la start un meniu simplu, cu diverse optiuni pe care user-ul le poate alege prin apasarea butoanelor corespunzatoare, precum:     
+ precum setarea TimeZone-ului( in cazul ceasului digital ) , preview-ul sunetului unei alarme sau setarea manuala a alarmei ( in cazul alarmei ).
